@@ -2,7 +2,9 @@
 
 import 'package:get/get.dart';
 
-class HomeController extends GetxController {
+class ProfilePageController extends GetxController {
+  //TODO: Implement ProfilePageController
+
   final count = 0.obs;
   @override
   void onInit() {

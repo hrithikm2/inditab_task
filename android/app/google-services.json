@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "602095360919",
+    "project_id": "inditabtask",
+    "storage_bucket": "inditabtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602095360919:android:b5a62585005231eec3c2d2",
+        "android_client_info": {
+          "package_name": "com.hrithik.inditabtask.inditab_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602095360919-b8e5g5l2jvm4uulkmiughcvvspj224ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hrithik.inditabtask.inditab_task",
+            "certificate_hash": "3938667fef64dffa8d3445696bb2089e4f16fc1b"
+          }
+        },
+        {
+          "client_id": "602095360919-2sdbom65gubamgafv18rnf4b3ve6fgcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCOE8OXvwrZlA1G_zGkUft_EwFibHOYv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602095360919-2sdbom65gubamgafv18rnf4b3ve6fgcj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602095360919-1ujlvg7ieg8k5cjh0fa4bdqcctit8e8o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterMvvmTrial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
